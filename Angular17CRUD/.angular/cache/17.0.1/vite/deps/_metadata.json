@@ -1,47 +1,53 @@
 {
-  "hash": "1a76ce79",
-  "browserHash": "eea7bbbd",
+  "hash": "aa9f52a3",
+  "browserHash": "14af6f49",
   "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "283aafb8",
+      "needsInterop": false
+    },
     "@angular/common/http": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
-      "fileHash": "ddea93a9",
+      "fileHash": "3a4d9be1",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "f57cb977",
+      "fileHash": "d874cbbf",
       "needsInterop": false
     },
     "@angular/forms": {
       "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
       "file": "@angular_forms.js",
-      "fileHash": "685b7944",
+      "fileHash": "640fcbca",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "ff64b29c",
+      "fileHash": "faf72d2e",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "3c4354c5",
+      "fileHash": "6880a283",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-VMKVIYNK": {
-      "file": "chunk-VMKVIYNK.js"
+    "chunk-266YOAFE": {
+      "file": "chunk-266YOAFE.js"
     },
-    "chunk-HXTU6EET": {
-      "file": "chunk-HXTU6EET.js"
+    "chunk-ZRTWL5XR": {
+      "file": "chunk-ZRTWL5XR.js"
     },
-    "chunk-MLRVLJHD": {
-      "file": "chunk-MLRVLJHD.js"
+    "chunk-VJEUUYEX": {
+      "file": "chunk-VJEUUYEX.js"
     },
     "chunk-ROE6DNFA": {
       "file": "chunk-ROE6DNFA.js"
